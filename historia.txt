@@ -1,3 +1,7 @@
 Este es el inicio de mi historia aprendiendo Git Profesional.
 
-volvi al pasado y borre todo.
+Tengo 23 años.
+
+Soy programador que usa PHP.
+
+Soy Dev. Web.
